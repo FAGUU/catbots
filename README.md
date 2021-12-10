@@ -114,7 +114,7 @@ By establishing the Pikachu, you are deemed to have accepted these responsibilit
     
   [![itsmebasil0](https://github.com/faguhere.png?size=100)](https://github.com/itsmebasil0) | 
 ----|
-[BASILSER](https://github.com/faguhere)
+[FAGU](https://github.com/faguhere)
 Base, Bug Fixes, Modules | Modifiying as public | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
