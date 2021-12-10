@@ -11,14 +11,14 @@
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="FAGU" src="https://img.shields.io/badge/BASILSER-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="FAGU" src="https://img.shields.io/badge/FAGU-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/itsmefagu"><img title="Author" src="https://img.shields.io/badge/Author-itsmefagu-/pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/faguhere"><img title="Author" src="https://img.shields.io/badge/Author-faguhere-/pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/itsmefagu">itsmefagu</a> to make it public
+Project created by <a href="https://github.com/faguhere">faguhere</a> to make it public
     <br>
        | © |
         Reserved |
@@ -39,9 +39,9 @@ Project created by <a href="https://github.com/itsmefagu">itsmefagu</a> to make 
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmebasil0&show_icons=true&theme=dark&locale=en" alt="itsmebasil0" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmefagu&show_icons=true&theme=dark&locale=en" alt="faguhere" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmebasil0&theme=dark" alt="itsmebasil0" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faguhere&theme=dark" altfaguhere"/></p>
 </p>
 
 
@@ -51,7 +51,7 @@ Project created by <a href="https://github.com/itsmefagu">itsmefagu</a> to make 
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/EceyD88E4OeJwS0w8KUrsC" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+  <a href="https://chat.whatsapp.com/EceyD88E4OeJwKUrsC" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
 </p>
    
 ## Setup
@@ -59,9 +59,9 @@ Click WA logo to Join Support Group 👇
 
   ### Simple Method
   
-[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@itsmebasil/Catbots)
+[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@faguhere/Catbots)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/itsmebasil0/catbots.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/faguherecatbots.git)
      </div>
 <br>
 <br >
@@ -81,7 +81,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Itsmebasil0/catbots
+$ git clone https://github.com/faguhere/catbots
 $ cd catbots
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -91,7 +91,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Itsmebasil0/catbots
+$ git clone https://github.com/faguherecatbots
 $ cd catbots
 $ chmod +x *
 $ npm i
@@ -112,9 +112,9 @@ By establishing the Pikachu, you are deemed to have accepted these responsibilit
 ## Developers
   <div align="center">
     
-  [![itsmebasil0](https://github.com/itsmebasil0.png?size=100)](https://github.com/itsmebasil0) | 
+  [![itsmebasil0](https://github.com/faguhere.png?size=100)](https://github.com/itsmebasil0) | 
 ----|
-[BASILSER](https://github.com/itsmebasil0)
+[BASILSER](https://github.com/faguhere)
 Base, Bug Fixes, Modules | Modifiying as public | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
